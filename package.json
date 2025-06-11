@@ -19,6 +19,6 @@
     "proxy-from-env": "^1.1.0"
   },
   "devDependencies": {
-    "@types/node": "^22.15.30"
+    "@types/node": "^24.0.0"
   }
 }
